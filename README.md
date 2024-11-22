@@ -1,5 +1,4 @@
-# app-dev.
-My first repository
+# My Favorite Series: HunterxHunter
 
 ## Overview
 *Hunter x Hunter is a Japanese anime series based on the manga by Yoshihiro Togashi. It follows the adventures of Gon Freecss, a young boy determined to become a Hunter and find his father, who is a legendary Hunter himself.
